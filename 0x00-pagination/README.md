@@ -1,6 +1,6 @@
 # Pagination
 
-This project contains tasks for learning to paginate data.
+This project was solved by Adetunji AFolabi
 
 ## Tasks To Complete
 
