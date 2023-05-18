@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Last-In First-Out caching module.
+"""
+Adetunji Afolabi
+Last-In First-Out caching module.
 """
 from collections import OrderedDict
 
