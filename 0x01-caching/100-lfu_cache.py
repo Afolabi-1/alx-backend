@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Least Frequently Used caching module.
+"""Adetunji Afolabi
+Least Frequently Used caching module.
 """
 from collections import OrderedDict
 
